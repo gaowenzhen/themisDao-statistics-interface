@@ -1,0 +1,48 @@
+.pagebody{
+    width: 96%;
+    position: absolute;
+    top: 120px;
+    left: auto;
+    right: auto;
+}
+.topqueybody{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.topqueybody>div{
+    vertical-align: middle;
+    margin-right: 10px;
+}
+.tablebox{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+}
+.timebox{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 16px;
+}
+.timebox>div{
+    display: flex;
+    align-items: center;
+}
+/* .refonstsize, .refonstsize .MuiOutlinedInput-root{
+    font-size: 14px!important;
+} */
+
+.ml10px{
+    margin-left: 16px;
+}
+
+.labelbox{
+    display: inline-block;
+    width: 180px;
+    text-align: right;
+    margin-right: 10px;
+}
+.tobox{
+    margin: 0px 20px;
+}
